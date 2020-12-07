@@ -5,6 +5,9 @@
 >Решить задачу на hackerrank ["Python If-Else"](https://www.hackerrank.com/challenges/py-if-else/problem)  
 >Ссылку на *аккаунт* приложить в личном кабинете.  
 >
+
+https://www.hackerrank.com/challenges/py-if-else/problem
+
 ## Задача №2
 >На лекции мы рассматривали пример для военкомата. Сейчас мы знаем про его рост. Расширить это приложение следующим условиями:
 >1. Проверка на возраст призывника;
